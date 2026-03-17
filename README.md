@@ -1,7 +1,7 @@
 # Curriculum Vitae — Alastair J. A. Price
 
 **Postdoctoral Research Fellow** | University of Toronto / Acceleration Consortium  
-Supervised by Prof. O. Anatole von Lilienfeld & Prof. Alán Aspuru-Guzik
+Supervised by Prof. O. Anatole von Lilienfeld
 
 [**Download CV (PDF)**](Alastair_Price_CV.pdf) | [ORCID](https://orcid.org/0000-0003-3239-8319) | [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID)
 
@@ -11,7 +11,7 @@ Supervised by Prof. O. Anatole von Lilienfeld & Prof. Alán Aspuru-Guzik
 
 | Degree | Institution | Supervisor | Year |
 |---|---|---|---|
-| **Postdoctoral Fellow** | University of Toronto / Acceleration Consortium | O. A. von Lilienfeld & A. Aspuru-Guzik | 2023–Present |
+| **Postdoctoral Fellow** | University of Toronto / Acceleration Consortium | O. A. von Lilienfeld | 2023–Present |
 | **Ph.D. Chemistry** | Dalhousie University | Erin R. Johnson | 2019–2023 |
 | **B.Sc. Hons (1st Class)** | Dalhousie University | Erin R. Johnson | 2016–2019 |
 
