@@ -3,7 +3,7 @@
 **Postdoctoral Research Fellow** | University of Toronto / Acceleration Consortium  
 Supervised by Prof. O. Anatole von Lilienfeld
 
-[**Download CV (PDF)**](Alastair_Price_CV.pdf) | [ORCID](https://orcid.org/0000-0003-3239-8319) | [Google Scholar](https://scholar.google.com/citations?user=4zGRuLQAAAAJ)
+[**Download CV (PDF)**](Alastair_Price_CV.pdf) | [LinkedIn](https://www.linkedin.com/in/alastair-price-6bba6611b/) | [ORCID](https://orcid.org/0000-0003-3239-8319) | [Google Scholar](https://scholar.google.com/citations?user=4zGRuLQAAAAJ)
 
 ---
 
