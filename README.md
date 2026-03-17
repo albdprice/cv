@@ -21,7 +21,7 @@ Density functional theory method development, exchange-hole dipole moment (XDM) 
 
 ### Selected Publications
 
-*573 citations, h-index 14, i10-index 16*
+*720 citations, h-index 14, i10-index 17*
 
 - D. Khan, **A. J. A. Price**, M. L. Ach, O. A. von Lilienfeld. Adaptive hybrid density functionals. *Sci. Adv.* **2025**, 11(5), eadt7769.
 - **A. J. A. Price**, A. Otero de la Roza, E. R. Johnson. XDM-corrected hybrid DFT with numerical atomic orbitals predicts molecular crystal energetics with unprecedented accuracy. *Chem. Sci.* **2023**, 14, 1252–1262.
