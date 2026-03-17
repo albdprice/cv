@@ -1,17 +1,15 @@
-# Curriculum Vitae - Alastair Price
+# Curriculum Vitae
 
-My academic CV, maintained in LaTeX via [Overleaf](https://latex.albdchem.org).
+**Alastair Price** | Computational Chemist & Scientific Software Developer
 
-## Building
+[**Download PDF**](Alastair_Price_CV.pdf)
 
-```bash
-cd Alastair_2026_CV
-pdflatex CV.tex
-bibtex CV
-pdflatex CV.tex
-pdflatex CV.tex
-```
+---
 
-## Auto-sync
+### About
 
-This repository is automatically synced from my self-hosted Overleaf instance via Gitea push mirroring.
+LaTeX CV maintained via self-hosted Overleaf, auto-compiled via GitHub Actions.
+
+**Research Interests:** Density Functional Theory, dispersion corrections (XDM), machine learning for molecular science (MACE), agentic AI systems for drug discovery
+
+**Links:** [ORCID](https://orcid.org/0000-0003-3239-8319) | [GitHub](https://github.com/albdprice)
